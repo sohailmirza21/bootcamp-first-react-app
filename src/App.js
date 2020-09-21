@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       
-     HELLO WORLD sohail mirza
+     <h1>sohail mirza updated successfully</h1>
      
     </div>
   );
