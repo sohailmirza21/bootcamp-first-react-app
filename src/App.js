@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       
-     <h1>sohail mirza updated successfully</h1>
+     <h1>sohail mirza new updated </h1>
      
     </div>
   );
